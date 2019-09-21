@@ -1,4 +1,4 @@
-﻿# Generate NODE CRUD API MySQL
+﻿# Generate NODE CRUD API MySQL  -  Windows
 
   
 This app is a wizard for generating node crud api.
